@@ -13,7 +13,7 @@ class Solution {
         if(low < high){
             int middle = (low + high)/2;
             mergeSort(nums,helper,low,middle); // left part
-            mergeSort(nums,helper,middle+1,high);
+            mergeSort(nums,helper,middle+1,high); // right part
             merge(nums,helper,low,middle,high);
         }
         

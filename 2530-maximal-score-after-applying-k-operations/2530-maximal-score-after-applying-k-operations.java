@@ -1,20 +1,20 @@
 class Solution {
     public long maxKelements(int[] nums, int k) {
         
-        PriorityQueue<Integer> maxHeap = new PriorityQueue<>((a, b) -> b - a);
+        PriorityQueue<Integer> heap = new PriorityQueue<>((a,b) -> b-a);
         
-        for(int i = 0;i<nums.length;i++){
-            maxHeap.offer(nums[i]);
+        for(int num : nums){
+            heap.offer(num);
         }
         
         long score = 0;
         
         for(int o = 0;o<k;o++){
             
-            int value = maxHeap.poll();
+            int value = heap.poll();
             score += value;
             value = (int)Math.ceil((double)value/3);
-            maxHeap.offer(value);
+            heap.offer(value);
             
         }
         

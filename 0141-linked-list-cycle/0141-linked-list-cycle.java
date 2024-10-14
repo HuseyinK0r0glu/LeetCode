@@ -12,6 +12,24 @@
 public class Solution {
     public boolean hasCycle(ListNode head) {
         
+        // floyd's tortoise & hare 
+        
+        ListNode fast = head;
+        ListNode slow = head;
+        
+        while (fast != null && fast.next != null){
+            
+            slow = slow.next; 
+            fast = fast.next.next;
+            if(fast == slow){
+                return true;
+            }
+        }
+        
+        return false;
+        
+        /*
+        // brute force 
         Set<ListNode> set = new HashSet<>();
         
         
@@ -28,6 +46,6 @@ public class Solution {
         }
         
         return false;
-        
+        */
     }
 }

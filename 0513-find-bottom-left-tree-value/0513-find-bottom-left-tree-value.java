@@ -14,8 +14,14 @@
  * }
  */
 class Solution {
+    
+    private int maxDepth = -1;
+    private int leftValue = 0;
+    
     public int findBottomLeftValue(TreeNode root) {
         
+        /*
+        // bfs
         if(root == null) return 0;
         
         Queue<TreeNode> q = new LinkedList<>();
@@ -45,6 +51,26 @@ class Solution {
         }
         
         return -1;
+        */
+        
+        dfs(root,0);
+        return leftValue;
         
     }
+    
+    public void dfs(TreeNode node,int depth){
+        
+        if(node == null) return;
+        
+        
+        if(depth > maxDepth){
+            maxDepth = depth;
+            leftValue = node.val;
+        }
+        
+        dfs(node.left,depth+1);
+        dfs(node.right,depth+1);
+        
+    }
+    
 }

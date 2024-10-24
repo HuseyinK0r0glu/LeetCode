@@ -1,6 +1,24 @@
 class Solution {
     public int majorityElement(int[] nums) {
         
+        // boyer moore algorithm
+        
+        int result =0;
+        int count = 0;
+        
+        for(int num : nums){
+            
+            if(count == 0) result = num;
+            
+            if(num == result) count++;
+            else count--;
+        }
+        
+        return result;
+        
+        
+        /*
+        // hashMap
         Map<Integer,Integer> map = new HashMap<>();
         
         for(int num : nums){
@@ -14,6 +32,7 @@ class Solution {
         }
         
         return -1;
+        */
         
         /*
         Map<Integer,Integer> map = new HashMap<>();

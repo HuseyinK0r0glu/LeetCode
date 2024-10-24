@@ -2,6 +2,21 @@ class Solution {
     public int majorityElement(int[] nums) {
         
         Map<Integer,Integer> map = new HashMap<>();
+        
+        for(int num : nums){
+            
+            map.put(num,map.getOrDefault(num,0) + 1);
+            
+            if(map.get(num) > nums.length / 2){
+                return num;
+            }
+            
+        }
+        
+        return -1;
+        
+        /*
+        Map<Integer,Integer> map = new HashMap<>();
 
         for(int i : nums){
             if (contain(i,map)){
@@ -16,9 +31,9 @@ class Solution {
         int result = find(map);
         
         return result;
-        
+        */
     }
-    
+    /*
     public boolean contain(int value,Map<Integer,Integer> map){
         
         boolean found = false;
@@ -47,4 +62,5 @@ class Solution {
         return result;
         
     }
+    */
 }

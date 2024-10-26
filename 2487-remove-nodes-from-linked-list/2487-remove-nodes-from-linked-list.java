@@ -11,6 +11,30 @@
 class Solution {
     public ListNode removeNodes(ListNode head) {
         
+        Deque<ListNode> stack = new ArrayDeque<>();
+        
+        while(head != null){
+            
+            while(!stack.isEmpty() && stack.peek().val < head.val){
+                stack.pop();
+            }
+            
+            stack.push(head);
+            
+            head = head.next;
+        }
+        
+        ListNode res = null;
+        
+        while(!stack.isEmpty()){
+            ListNode node = stack.pop();
+            node.next = res;
+            res = node;
+        }
+        
+        return res;
+        
+        /*
         List<Integer> list = new ArrayList<>();
         
         while(head != null){
@@ -42,6 +66,6 @@ class Solution {
         }
         
         return res.next;
-        
+        */
     }
 }

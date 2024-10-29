@@ -9,8 +9,13 @@
  * }
  */
 class Solution {
+    
+    private ListNode res = null;
+    
     public ListNode reverseList(ListNode head) {
         
+        /*
+        // with iteration
         ListNode prev = null;
         ListNode current = head; 
         ListNode next = null;
@@ -24,5 +29,26 @@ class Solution {
         
         
         return prev;
+        */
+        
+        reverse(head);
+        
+        return res;
+    }
+    
+    
+    public void reverse(ListNode node){
+        
+        // with recursion
+        
+        if(node == null || node.next == null){
+            res = node;
+            return;
+        }
+        
+        reverse(node.next);
+        
+        node.next.next = node;
+        node.next = null;
     }
 }

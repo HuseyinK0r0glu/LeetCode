@@ -9,9 +9,16 @@
  * };
  */
 class Solution {
+
+private: ListNode* res  =nullptr;
+
 public:
     ListNode* reverseList(ListNode* head) {
         
+        reverse(head);
+        
+        return res;
+        /*
         ListNode* prev = nullptr;
         ListNode* current = head;
         ListNode* next = nullptr;
@@ -24,6 +31,21 @@ public:
         }
         
         return prev;
+        */
+    }
+    
+public:
+    void reverse(ListNode* head){
+        
+        if(head == nullptr || head->next == nullptr){
+            res = head;
+            return;
+        }
+        
+        reverse(head->next);
+        
+        head->next->next = head;
+        head->next = nullptr;
         
     }
 };

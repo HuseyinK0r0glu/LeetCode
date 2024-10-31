@@ -14,8 +14,18 @@
  * }
  */
 class Solution {
+    
+    private int sum = 0;
+    
     public int sumEvenGrandparent(TreeNode root) {
         
+        // dfs 
+        dfs(root,null,null);
+        
+        return sum;
+        
+        /*
+        //bfs
         if(root == null) return 0;
         
         TreeNode[] info = {root,null,null};
@@ -43,5 +53,18 @@ class Solution {
         }
         
         return sum;
+        */
     }
+    
+    public void dfs(TreeNode curr,TreeNode parent,TreeNode gParent){
+        
+        if(curr == null) return;
+        
+        if(gParent != null && gParent.val % 2 == 0) sum += curr.val;
+        
+        dfs(curr.left,curr,parent);
+        dfs(curr.right,curr,parent);
+        
+    }
+    
 }

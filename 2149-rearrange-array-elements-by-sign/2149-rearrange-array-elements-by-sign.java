@@ -1,6 +1,27 @@
 class Solution {
     public int[] rearrangeArray(int[] nums) {
         
+        // with two pointers
+        int pos = 0;
+        int neg = 0;
+        
+        int[] res = new int[nums.length];
+        
+        for(int i = 0;i<nums.length;i++){
+            
+            if(i % 2 == 0){
+                while(nums[pos] < 0) pos++;
+                res[i] = nums[pos++];
+            }else{
+                while(nums[neg] > 0) neg++;
+                res[i] = nums[neg++];
+            }
+            
+        }
+        
+        return res;
+        
+        /*
         List<Integer> pos = new ArrayList<>();
         List<Integer> neg = new ArrayList<>();
         
@@ -17,5 +38,6 @@ class Solution {
         }
         
         return nums;
+        */
     }
 }

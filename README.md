@@ -25,4 +25,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+## String
+|  |
+| ------- |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+## Greedy
+|  |
+| ------- |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+## Enumeration
+|  |
+| ------- |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 <!---LeetCode Topics End-->

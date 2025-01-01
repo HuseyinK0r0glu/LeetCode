@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Greedy
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 ## Counting
 |  |

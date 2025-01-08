@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0189-rotate-array) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1642-water-bottles](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1642-water-bottles) |
 | [3336-water-bottles-ii](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3336-water-bottles-ii) |
@@ -17,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0189-rotate-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -32,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0189-rotate-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 ## Sorting

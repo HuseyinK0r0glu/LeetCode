@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0061-rotate-list) |
 | [0189-rotate-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0189-rotate-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -92,4 +93,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0677-map-sum-pairs](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0677-map-sum-pairs) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->

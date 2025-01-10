@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2465-shifting-letters-ii](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0677-map-sum-pairs](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0677-map-sum-pairs) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2892-check-if-array-is-good](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2892-check-if-array-is-good) |
 ## Prefix Sum
@@ -85,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 ## Design
 |  |
 | ------- |

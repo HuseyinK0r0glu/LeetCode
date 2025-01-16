@@ -1,4 +1,18 @@
 class Solution {
+        public int countKeyChanges(String s) {
+
+        int change = 0;
+        String newString = s.toLowerCase();
+
+        for(int i = 0; i < newString.length()-1; i++) {
+            if(newString.charAt(i) != newString.charAt(i+1)) {
+                change++;
+            }
+        }
+
+        return change;
+    }
+    /*
     public int countKeyChanges(String s) {
 
         int change = 0;
@@ -14,4 +28,6 @@ class Solution {
 
         return change;
     }
+    */
+    
 }

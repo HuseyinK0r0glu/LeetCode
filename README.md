@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2691-count-vowel-strings-in-ranges](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2723-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2723-find-the-longest-balanced-substring-of-a-binary-string) |
 | [3312-number-of-changing-keys](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3312-number-of-changing-keys) |
+| [3617-find-the-original-typed-string-i](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 ## Greedy
 |  |
 | ------- |

@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2465-shifting-letters-ii](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2465-shifting-letters-ii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
@@ -45,10 +46,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0189-rotate-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2892-check-if-array-is-good](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2892-check-if-array-is-good) |
 ## String
 |  |
@@ -71,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2663-distribute-money-to-maximum-children](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2663-distribute-money-to-maximum-children) |
 ## Enumeration
 |  |

@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0189-rotate-array) |
 | [1195-distribute-candies-to-people](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1195-distribute-candies-to-people) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1642-water-bottles](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1642-water-bottles) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [2663-distribute-money-to-maximum-children](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2663-distribute-money-to-maximum-children) |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0677-map-sum-pairs](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0677-map-sum-pairs) |
 | [0961-long-pressed-name](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0961-long-pressed-name) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
@@ -137,4 +139,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2792-neighboring-bitwise-xor](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
+## Sliding Window
+|  |
+| ------- |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 <!---LeetCode Topics End-->

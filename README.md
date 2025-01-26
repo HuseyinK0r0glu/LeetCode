@@ -180,4 +180,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1396-count-servers-that-communicate) |
+## Database
+|  |
+| ------- |
+| [1892-find-total-time-spent-by-each-employee](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1892-find-total-time-spent-by-each-employee) |
 <!---LeetCode Topics End-->

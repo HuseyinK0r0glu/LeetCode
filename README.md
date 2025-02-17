@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0677-map-sum-pairs](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0677-map-sum-pairs) |
 | [0961-long-pressed-name](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0961-long-pressed-name) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1078-remove-outermost-parentheses](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1532-reformat-the-string](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1532-reformat-the-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -184,4 +185,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1892-find-total-time-spent-by-each-employee) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->

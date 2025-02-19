@@ -1,55 +1,55 @@
 class Solution {
     public String tictactoe(int[][] moves) {
 
-        Character[][] matrix = new Character[3][3];
-        String player = "A";
+        Character[][] board = new Character[3][3];
 
-        for(int i = 0;i<matrix.length;i++){
-            for (int j = 0; j < matrix[0].length; j++) {
-                matrix[i][j] = '.';
+        for (int i = 0; i < 3; i++) {
+            for (int j = 0; j < 3; j++) {
+                board[i][j] = '.';
             }
         }
 
-        for(int[] move : moves){
-           int row = move[0];
-           int col = move[1];
+        String player = "A";
 
-           if(player.equals("A")){
-               matrix[row][col] = 'A';
-               if(check(matrix,player.charAt(0))){
-                   return player;
-               }
-               player = "B";
-           }else {
-               matrix[row][col] = 'B';
-               if(check(matrix,player.charAt(0))){
-                   return player;
-               }
-               player = "A";
-           }
+        for(int[] move : moves) {
+            int row = move[0];
+            int col = move[1];
+
+            if(player.equals("A")) {
+                board[row][col] = 'A';
+                if(checkWin(board,'A')){
+                    return player;
+                }
+                player = "B";
+            }else {
+                board[row][col] = 'B';
+                if(checkWin(board,'B')){
+                    return player;
+                }
+                player = "A";
+            }
         }
-        
-        if(moves.length == 9){
-            return "Draw";
-        }
-        
+
+        if(moves.length == 9) return "Draw";
+
         return "Pending";
     }
 
-    public boolean check(Character[][] matrix,char player){
+    public boolean checkWin(Character[][] board,char player) {
+
+        if((board[0][0] == player && board[1][1] == player && board[2][2] == player) ||
+                (board[0][2] == player && board[1][1] == player && board[2][0] == player)) {
+            return true;
+        }
 
         for(int i = 0;i<3;i++){
-            if((matrix[i][0] == player && matrix[i][1] == player && matrix[i][2] == player) ||
-                    (matrix[0][i] == player && matrix[1][i] == player && matrix[2][i] == player)){
+            if((board[i][0] == player && board[i][1] == player && board[i][2] == player) ||
+                    (board[0][i] == player && board[1][i] == player && board[2][i] == player)){
                 return true;
             }
         }
 
-        if((matrix[0][0] == player && matrix[1][1] == player && matrix[2][2] == player) ||
-            matrix[0][2] == player && matrix[1][1] == player && matrix[2][0] == player){
-            return true;
-        }
-
         return false;
     }
+
 }

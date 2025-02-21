@@ -194,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 |  |
 | ------- |
+| [1837-daily-leads-and-partners](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1837-daily-leads-and-partners) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1892-find-total-time-spent-by-each-employee) |
 ## Stack
 |  |

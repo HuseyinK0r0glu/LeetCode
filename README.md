@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0342-power-of-four) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1195-distribute-candies-to-people](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1195-distribute-candies-to-people) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0231-power-of-two](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0342-power-of-four) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [2792-neighboring-bitwise-xor](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 ## Sliding Window
 |  |

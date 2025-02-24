@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1195-distribute-candies-to-people](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1195-distribute-candies-to-people) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1642-water-bottles](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1642-water-bottles) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |

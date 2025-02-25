@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2663-distribute-money-to-maximum-children](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2663-distribute-money-to-maximum-children) |
 | [3336-water-bottles-ii](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3336-water-bottles-ii) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Simulation
 |  |
 | ------- |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3651-transformed-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3651-transformed-array) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -143,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2465-shifting-letters-ii](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Counting
 |  |
 | ------- |

@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1642-water-bottles](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1642-water-bottles) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1396-count-servers-that-communicate](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -134,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2465-shifting-letters-ii](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2465-shifting-letters-ii) |
@@ -212,4 +215,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->

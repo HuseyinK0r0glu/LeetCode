@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0495-teemo-attacking](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0495-teemo-attacking) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1195-distribute-candies-to-people](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1195-distribute-candies-to-people) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0189-rotate-array) |
+| [0495-teemo-attacking](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0495-teemo-attacking) |
 | [1019-squares-of-a-sorted-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1168-duplicate-zeros](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1168-duplicate-zeros) |

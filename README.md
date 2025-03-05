@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1642-water-bottles](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1642-water-bottles) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2649-count-total-number-of-colored-cells](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2663-distribute-money-to-maximum-children](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2663-distribute-money-to-maximum-children) |
 | [3336-water-bottles-ii](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |

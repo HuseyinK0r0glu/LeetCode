@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0342-power-of-four) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [1031-add-to-array-form-of-integer](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1195-distribute-candies-to-people](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1195-distribute-candies-to-people) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1019-squares-of-a-sorted-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1027-sum-of-even-numbers-after-queries) |
+| [1031-add-to-array-form-of-integer](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1168-duplicate-zeros](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1241-decompress-run-length-encoded-list](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |

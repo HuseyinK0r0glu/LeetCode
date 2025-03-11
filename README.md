@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1241-decompress-run-length-encoded-list](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1396-count-servers-that-communicate](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0961-long-pressed-name](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0961-long-pressed-name) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1532-reformat-the-string](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1532-reformat-the-string) |
@@ -194,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0342-power-of-four) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1610-xor-operation-in-an-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [2792-neighboring-bitwise-xor](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 ## Sliding Window
@@ -236,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -243,9 +247,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Geometry
 |  |
 | ------- |
 | [1349-check-if-it-is-a-straight-line](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
+## Bitmask
+|  |
+| ------- |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 <!---LeetCode Topics End-->

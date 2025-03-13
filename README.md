@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1381-maximum-score-words-formed-by-letters](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1396-count-servers-that-communicate](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0961-long-pressed-name](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0961-long-pressed-name) |
 | [1019-squares-of-a-sorted-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1168-duplicate-zeros) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -96,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2756-buy-two-chocolates](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2756-buy-two-chocolates) |
@@ -264,4 +267,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
+## Binary Search
+|  |
+| ------- |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->

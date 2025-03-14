@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1197-parsing-a-boolean-expression](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1532-reformat-the-string](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1532-reformat-the-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |

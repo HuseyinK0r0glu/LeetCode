@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1642-water-bottles](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1642-water-bottles) |
 | [1769-get-maximum-in-generated-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1769-get-maximum-in-generated-array) |
+| [2386-min-max-game](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2386-min-max-game) |
 | [3336-water-bottles-ii](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3651-transformed-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3651-transformed-array) |
 ## Array
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2342-minimum-average-difference](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2342-minimum-average-difference) |
 | [2358-number-of-ways-to-split-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [2386-min-max-game](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2386-min-max-game) |
 | [2465-shifting-letters-ii](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |

@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1532-reformat-the-string](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1532-reformat-the-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1660-thousand-separator](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1660-thousand-separator) |
 | [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |

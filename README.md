@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1769-get-maximum-in-generated-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1769-get-maximum-in-generated-array) |
 | [2386-min-max-game](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2386-min-max-game) |
 | [3336-water-bottles-ii](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3336-water-bottles-ii) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3651-transformed-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3651-transformed-array) |
 ## Array
 |  |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2892-check-if-array-is-good](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2892-check-if-array-is-good) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3651-transformed-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3651-transformed-array) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3764-maximum-sum-with-at-most-k-elements) |

@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1642-water-bottles](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1642-water-bottles) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2649-count-total-number-of-colored-cells](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2663-distribute-money-to-maximum-children](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2663-distribute-money-to-maximum-children) |
 | [3336-water-bottles-ii](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3336-water-bottles-ii) |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2107-find-unique-binary-string](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2107-find-unique-binary-string) |

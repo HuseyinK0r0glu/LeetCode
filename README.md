@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2892-check-if-array-is-good](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2892-check-if-array-is-good) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3651-transformed-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3651-transformed-array) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2465-shifting-letters-ii](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2723-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2723-find-the-longest-balanced-substring-of-a-binary-string) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3312-number-of-changing-keys](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3312-number-of-changing-keys) |
 | [3396-valid-word](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
@@ -235,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0677-map-sum-pairs](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0677-map-sum-pairs) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Linked List
 |  |
 | ------- |
@@ -336,4 +339,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## String Matching
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->

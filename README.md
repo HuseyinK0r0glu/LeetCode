@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1752-arithmetic-subarrays](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1752-arithmetic-subarrays) |
 | [1769-get-maximum-in-generated-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1769-get-maximum-in-generated-array) |
+| [1830-count-good-meals](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1830-count-good-meals) |
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -197,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1752-arithmetic-subarrays](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1752-arithmetic-subarrays) |
+| [1830-count-good-meals](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1830-count-good-meals) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2107-find-unique-binary-string](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2107-find-unique-binary-string) |

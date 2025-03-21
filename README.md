@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2107-find-unique-binary-string](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2342-minimum-average-difference](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2342-minimum-average-difference) |
 | [2358-number-of-ways-to-split-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2107-find-unique-binary-string](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2300-construct-string-with-repeat-limit](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -199,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2107-find-unique-binary-string](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2300-construct-string-with-repeat-limit](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
@@ -351,4 +354,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Graph
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Topological Sort
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->

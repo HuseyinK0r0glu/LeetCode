@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0415-add-strings](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0415-add-strings) |
 | [0677-map-sum-pairs](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0677-map-sum-pairs) |
+| [0857-positions-of-large-groups](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0857-positions-of-large-groups) |
 | [0961-long-pressed-name](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0961-long-pressed-name) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1078-remove-outermost-parentheses) |

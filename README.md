@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2691-count-vowel-strings-in-ranges](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2756-buy-two-chocolates](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2756-buy-two-chocolates) |
+| [2777-find-the-distinct-difference-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2777-find-the-distinct-difference-array) |
 | [2792-neighboring-bitwise-xor](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [2892-check-if-array-is-good](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2892-check-if-array-is-good) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2308-divide-array-into-equal-pairs](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
+| [2777-find-the-distinct-difference-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2777-find-the-distinct-difference-array) |
 | [2892-check-if-array-is-good](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2892-check-if-array-is-good) |
 ## Prefix Sum
 |  |

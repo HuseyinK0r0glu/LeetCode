@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3511-find-the-winning-player-in-coin-game](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3817-maximum-containers-on-a-ship](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3817-maximum-containers-on-a-ship) |
 ## Simulation
 |  |
 | ------- |

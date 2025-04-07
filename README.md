@@ -271,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0801-is-graph-bipartite](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1396-count-servers-that-communicate](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1396-count-servers-that-communicate) |
 ## Bit Manipulation
@@ -302,12 +303,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0690-employee-importance](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0690-employee-importance) |
+| [0801-is-graph-bipartite](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1396-count-servers-that-communicate](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0690-employee-importance](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0690-employee-importance) |
+| [0801-is-graph-bipartite](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1396-count-servers-that-communicate](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1396-count-servers-that-communicate) |
 ## Matrix
 |  |
@@ -381,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [0801-is-graph-bipartite](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Topological Sort
 |  |

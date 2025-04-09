@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1642-water-bottles](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1642-water-bottles) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -225,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1746-largest-substring-between-two-equal-characters](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1752-arithmetic-subarrays](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1752-arithmetic-subarrays) |
 | [1830-count-good-meals](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1830-count-good-meals) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
@@ -257,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1227-number-of-equivalent-domino-pairs](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1396-count-servers-that-communicate](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2300-construct-string-with-repeat-limit](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |

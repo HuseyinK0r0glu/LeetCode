@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3651-transformed-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3651-transformed-array) |
+| [3811-reverse-degree-of-a-string](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 ## Array
 |  |
 | ------- |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3312-number-of-changing-keys](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3312-number-of-changing-keys) |
 | [3396-valid-word](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
+| [3811-reverse-degree-of-a-string](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 ## Greedy
 |  |
 | ------- |

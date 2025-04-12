@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2649-count-total-number-of-colored-cells](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2663-distribute-money-to-maximum-children](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2663-distribute-money-to-maximum-children) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3336-water-bottles-ii](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
@@ -220,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2456-construct-smallest-number-from-di-string](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2663-distribute-money-to-maximum-children](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2663-distribute-money-to-maximum-children) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2756-buy-two-chocolates](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Enumeration

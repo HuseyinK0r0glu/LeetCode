@@ -246,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2300-construct-string-with-repeat-limit](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2413-smallest-number-in-infinite-set](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2547-odd-string-difference](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2547-odd-string-difference) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
@@ -284,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0677-map-sum-pairs](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0677-map-sum-pairs) |
 | [1572-subrectangle-queries](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1572-subrectangle-queries) |
+| [2413-smallest-number-in-infinite-set](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Trie
 |  |
 | ------- |
@@ -390,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2300-construct-string-with-repeat-limit](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2413-smallest-number-in-infinite-set](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Tree
 |  |
@@ -425,4 +428,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
+## Ordered Set
+|  |
+| ------- |
+| [2413-smallest-number-in-infinite-set](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->

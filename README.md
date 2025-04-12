@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1642-water-bottles](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1642-water-bottles) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
+| [1879-maximum-score-from-removing-stones](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1879-maximum-score-from-removing-stones) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -209,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1829-maximum-units-on-a-truck](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
+| [1879-maximum-score-from-removing-stones](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1879-maximum-score-from-removing-stones) |
 | [1917-maximum-average-pass-ratio](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -395,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1879-maximum-score-from-removing-stones](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1879-maximum-score-from-removing-stones) |
 | [1917-maximum-average-pass-ratio](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2300-construct-string-with-repeat-limit](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2379-maximum-total-importance-of-roads](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |

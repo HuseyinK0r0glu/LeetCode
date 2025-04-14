@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3651-transformed-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3651-transformed-array) |
+| [3790-fruits-into-baskets-ii](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3811-reverse-degree-of-a-string](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 ## Array
 |  |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3778-transform-array-by-parity](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3778-transform-array-by-parity) |
+| [3790-fruits-into-baskets-ii](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -396,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [3790-fruits-into-baskets-ii](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -444,4 +447,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2413-smallest-number-in-infinite-set](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->

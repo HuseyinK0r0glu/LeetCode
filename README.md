@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0495-teemo-attacking](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0495-teemo-attacking) |
 | [0690-employee-importance](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0690-employee-importance) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1019-squares-of-a-sorted-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1031-add-to-array-form-of-integer](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
@@ -238,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0677-map-sum-pairs](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0677-map-sum-pairs) |
 | [0690-employee-importance](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0690-employee-importance) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
@@ -325,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Recursion

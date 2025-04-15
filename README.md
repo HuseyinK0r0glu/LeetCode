@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0377-combination-sum-iv](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0495-teemo-attacking](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0495-teemo-attacking) |
+| [0605-can-place-flowers](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0605-can-place-flowers) |
 | [0690-employee-importance](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0690-employee-importance) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0605-can-place-flowers) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |

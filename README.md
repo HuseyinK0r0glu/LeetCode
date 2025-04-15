@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1769-get-maximum-in-generated-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1769-get-maximum-in-generated-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2386-min-max-game](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2386-min-max-game) |
+| [2684-determine-the-winner-of-a-bowling-game](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2857-total-distance-traveled](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2857-total-distance-traveled) |
 | [3336-water-bottles-ii](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
+| [2684-determine-the-winner-of-a-bowling-game](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2756-buy-two-chocolates](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2756-buy-two-chocolates) |

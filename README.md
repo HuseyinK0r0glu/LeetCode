@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1031-add-to-array-form-of-integer](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1183-statistics-from-a-large-sample](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1183-statistics-from-a-large-sample) |
 | [1195-distribute-candies-to-people](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1195-distribute-candies-to-people) |
+| [1279-prime-arrangements](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1279-prime-arrangements) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |

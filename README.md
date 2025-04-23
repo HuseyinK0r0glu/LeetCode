@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0495-teemo-attacking](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0495-teemo-attacking) |
 | [0605-can-place-flowers](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0605-can-place-flowers) |
 | [0690-employee-importance](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0690-employee-importance) |
+| [0853-most-profit-assigning-work](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1019-squares-of-a-sorted-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0061-rotate-list](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0061-rotate-list) |
 | [0189-rotate-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0189-rotate-array) |
+| [0853-most-profit-assigning-work](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0961-long-pressed-name](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0961-long-pressed-name) |
 | [1019-squares-of-a-sorted-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1168-duplicate-zeros) |
@@ -155,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0853-most-profit-assigning-work](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [1019-squares-of-a-sorted-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -222,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0605-can-place-flowers) |
+| [0853-most-profit-assigning-work](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -415,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0853-most-profit-assigning-work](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [3790-fruits-into-baskets-ii](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Heap (Priority Queue)

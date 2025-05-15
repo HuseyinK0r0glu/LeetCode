@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1706-min-cost-to-connect-all-points](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1752-arithmetic-subarrays](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1752-arithmetic-subarrays) |
 | [1769-get-maximum-in-generated-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1769-get-maximum-in-generated-array) |
 | [1829-maximum-units-on-a-truck](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1752-arithmetic-subarrays](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1752-arithmetic-subarrays) |
 | [1829-maximum-units-on-a-truck](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -421,6 +423,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0853-most-profit-assigning-work](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [3790-fruits-into-baskets-ii](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Heap (Priority Queue)
 |  |

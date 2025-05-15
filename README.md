@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1183-statistics-from-a-large-sample](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1183-statistics-from-a-large-sample) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1241-decompress-run-length-encoded-list](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -394,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Backtracking
 |  |
@@ -481,4 +483,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1183-statistics-from-a-large-sample](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1183-statistics-from-a-large-sample) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
 <!---LeetCode Topics End-->

@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3034-points-that-intersect-with-cars](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
+| [3183-find-the-k-or-of-an-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3183-find-the-k-or-of-an-array) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3651-transformed-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3651-transformed-array) |
@@ -349,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1610-xor-operation-in-an-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2792-neighboring-bitwise-xor](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
+| [3183-find-the-k-or-of-an-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3183-find-the-k-or-of-an-array) |
 ## Sliding Window
 |  |
 | ------- |

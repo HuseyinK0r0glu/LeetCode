@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2792-neighboring-bitwise-xor](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2892-check-if-array-is-good](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2892-check-if-array-is-good) |
+| [3034-points-that-intersect-with-cars](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -285,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2777-find-the-distinct-difference-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2777-find-the-distinct-difference-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2892-check-if-array-is-good](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2892-check-if-array-is-good) |
+| [3034-points-that-intersect-with-cars](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -299,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3034-points-that-intersect-with-cars](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Counting
 |  |

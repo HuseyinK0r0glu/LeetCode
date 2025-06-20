@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0001-two-sum) |
 | [0189-rotate-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0189-rotate-array) |
 | [0322-coin-change](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0377-combination-sum-iv) |
@@ -262,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0001-two-sum) |
 | [0677-map-sum-pairs](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0677-map-sum-pairs) |
 | [0690-employee-importance](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0690-employee-importance) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |

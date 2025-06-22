@@ -194,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
+| [1205-defanging-an-ip-address](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |

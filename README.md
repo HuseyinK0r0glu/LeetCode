@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1752-arithmetic-subarrays](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1752-arithmetic-subarrays) |
 | [1769-get-maximum-in-generated-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1769-get-maximum-in-generated-array) |
+| [1791-richest-customer-wealth](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1829-maximum-units-on-a-truck](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [1830-count-good-meals](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1830-count-good-meals) |
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
@@ -398,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1396-count-servers-that-communicate](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1572-subrectangle-queries](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1572-subrectangle-queries) |
+| [1791-richest-customer-wealth](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Database

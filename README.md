@@ -190,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0415-add-strings](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0415-add-strings) |
 | [0677-map-sum-pairs](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0677-map-sum-pairs) |
+| [0782-jewels-and-stones](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0851-goat-latin](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0851-goat-latin) |
 | [0857-positions-of-large-groups](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0857-positions-of-large-groups) |
 | [0961-long-pressed-name](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0961-long-pressed-name) |
@@ -272,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0001-two-sum) |
 | [0677-map-sum-pairs](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0677-map-sum-pairs) |
 | [0690-employee-importance](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0690-employee-importance) |
+| [0782-jewels-and-stones](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |

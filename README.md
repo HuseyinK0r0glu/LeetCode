@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2308-divide-array-into-equal-pairs](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2342-minimum-average-difference](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2342-minimum-average-difference) |
 | [2358-number-of-ways-to-split-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2386-min-max-game](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2386-min-max-game) |
 | [2465-shifting-letters-ii](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2379-maximum-total-importance-of-roads](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -305,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2413-smallest-number-in-infinite-set](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2547-odd-string-difference](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2547-odd-string-difference) |
@@ -347,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3778-transform-array-by-parity](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3778-transform-array-by-parity) |

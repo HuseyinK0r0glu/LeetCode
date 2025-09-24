@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2465-shifting-letters-ii](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2508-maximum-sum-of-an-hourglass](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2547-odd-string-difference](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2547-odd-string-difference) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -354,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2358-number-of-ways-to-split-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [2508-maximum-sum-of-an-hourglass](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3034-points-that-intersect-with-cars](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
@@ -452,6 +454,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1572-subrectangle-queries](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1572-subrectangle-queries) |
 | [1791-richest-customer-wealth](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2508-maximum-sum-of-an-hourglass](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Database
 |  |

@@ -438,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0690-employee-importance](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0690-employee-importance) |
 | [0801-is-graph-bipartite](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1396-count-servers-that-communicate](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 ## Breadth-First Search
 |  |
@@ -446,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0690-employee-importance](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0690-employee-importance) |
 | [0801-is-graph-bipartite](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1396-count-servers-that-communicate](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -512,6 +514,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0690-employee-importance](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0690-employee-importance) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Game Theory
 |  |
 | ------- |
@@ -567,4 +570,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Binary Tree
+|  |
+| ------- |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->

@@ -318,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1830-count-good-meals](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1830-count-good-meals) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
+| [1905-design-authentication-manager](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1905-design-authentication-manager) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
@@ -388,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0677-map-sum-pairs](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0677-map-sum-pairs) |
 | [1477-product-of-the-last-k-numbers](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1572-subrectangle-queries](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1572-subrectangle-queries) |
+| [1905-design-authentication-manager](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1905-design-authentication-manager) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2413-smallest-number-in-infinite-set](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Trie
@@ -399,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0061-rotate-list) |
+| [1905-design-authentication-manager](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1905-design-authentication-manager) |
 ## Union Find
 |  |
 | ------- |
@@ -576,4 +579,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1905-design-authentication-manager](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1905-design-authentication-manager) |
 <!---LeetCode Topics End-->

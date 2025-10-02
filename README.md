@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0853-most-profit-assigning-work](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [0990-verifying-an-alien-dictionary](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1019-squares-of-a-sorted-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1031-add-to-array-form-of-integer](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
@@ -217,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0851-goat-latin](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0851-goat-latin) |
 | [0857-positions-of-large-groups](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0857-positions-of-large-groups) |
 | [0961-long-pressed-name](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0961-long-pressed-name) |
+| [0990-verifying-an-alien-dictionary](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
@@ -309,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0782-jewels-and-stones](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [0990-verifying-an-alien-dictionary](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |

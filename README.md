@@ -304,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0001-two-sum) |
+| [0355-design-twitter](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0355-design-twitter) |
 | [0447-number-of-boomerangs](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [0609-find-duplicate-file-in-system](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0609-find-duplicate-file-in-system) |
 | [0677-map-sum-pairs](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0677-map-sum-pairs) |
@@ -393,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0355-design-twitter) |
 | [0677-map-sum-pairs](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0677-map-sum-pairs) |
 | [1477-product-of-the-last-k-numbers](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1572-subrectangle-queries](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1572-subrectangle-queries) |
@@ -408,6 +410,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0061-rotate-list) |
+| [0355-design-twitter](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0355-design-twitter) |
 | [1905-design-authentication-manager](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1905-design-authentication-manager) |
 ## Union Find
 |  |
@@ -517,6 +520,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0355-design-twitter) |
 | [1879-maximum-score-from-removing-stones](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1879-maximum-score-from-removing-stones) |
 | [1917-maximum-average-pass-ratio](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2300-construct-string-with-repeat-limit](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |

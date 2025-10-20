@@ -1,3 +1,2 @@
 # Write your MySQL query statement below
-select name as Customers from customers where id not in 
-    (select customerId from customers inner join orders on orders.customerId = customers.id);
+select name as Customers from customers as c where c.id not in (select o.customerId from orders as o where c.id = o.customerId) 

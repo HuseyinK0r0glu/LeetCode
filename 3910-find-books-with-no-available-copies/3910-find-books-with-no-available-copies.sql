@@ -1,0 +1,2 @@
+# Write your MySQL query statement below
+select book_id,title,author,genre,publication_year,total_copies as current_borrowers from library_books where book_id in (select book_id from (select * from borrowing_records where return_date is null) as k group by book_id having count(*) = total_copies) order by current_borrowers desc , title asc

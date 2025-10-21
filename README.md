@@ -483,6 +483,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0577-employee-bonus](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0584-find-customer-referee) |
 | [0607-sales-person](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0607-sales-person) |
+| [0610-triangle-judgement](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0620-not-boring-movies) |
 | [0627-swap-salary](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0627-swap-salary) |
 | [1135-customers-who-bought-all-products](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1135-customers-who-bought-all-products) |

@@ -491,6 +491,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1135-customers-who-bought-all-products](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1135-customers-who-bought-all-products) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1811-fix-names-in-a-table](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1811-fix-names-in-a-table) |
+| [1827-invalid-tweets](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1827-invalid-tweets) |
 | [1837-daily-leads-and-partners](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1837-daily-leads-and-partners) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2127-employees-whose-manager-left-the-company) |

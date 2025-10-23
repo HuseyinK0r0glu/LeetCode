@@ -1,0 +1,2 @@
+# Write your MySQL query statement below
+select stock_name , (select sum(-price) from Stocks as S1 where operation = "Buy" and S1.stock_name = S2.stock_name) +  (select sum(price) from Stocks as S1 where operation = "Sell" and S1.stock_name = S2.stock_name) as capital_gain_loss from Stocks as S2 group by stock_name;

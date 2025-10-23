@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3732-calculate-score-after-performing-instructions](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3790-fruits-into-baskets-ii](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3811-reverse-degree-of-a-string](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
+| [4058-compute-alternating-sum](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/4058-compute-alternating-sum) |
 ## Array
 |  |
 | ------- |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3790-fruits-into-baskets-ii](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3994-find-the-least-frequent-digit](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3994-find-the-least-frequent-digit) |
 | [4008-restore-finishing-order](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/4008-restore-finishing-order) |
+| [4058-compute-alternating-sum](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/4058-compute-alternating-sum) |
 ## Two Pointers
 |  |
 | ------- |

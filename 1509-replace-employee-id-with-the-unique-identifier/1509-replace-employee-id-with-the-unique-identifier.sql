@@ -1,0 +1,2 @@
+# Write your MySQL query statement below
+select (case when e.id in (select u.id from EmployeeUNI as u) then (select unique_id from EmployeeUNI as u1 where u1.id = e.id) else null end ) as unique_id , name from Employees as e

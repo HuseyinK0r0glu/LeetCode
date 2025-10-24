@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3626-smallest-divisible-digit-product-i](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3817-maximum-containers-on-a-ship](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3817-maximum-containers-on-a-ship) |
+| [3918-check-divisibility-by-digit-sum-and-product](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [3994-find-the-least-frequent-digit](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3994-find-the-least-frequent-digit) |
 ## Simulation
 |  |

@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2342-minimum-average-difference](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2342-minimum-average-difference) |
+| [2352-design-an-atm-machine](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2352-design-an-atm-machine) |
 | [2358-number-of-ways-to-split-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2386-min-max-game](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2386-min-max-game) |
@@ -289,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2352-design-an-atm-machine](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2352-design-an-atm-machine) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2379-maximum-total-importance-of-roads](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -407,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1905-design-authentication-manager](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1905-design-authentication-manager) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2169-simple-bank-system](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2169-simple-bank-system) |
+| [2352-design-an-atm-machine](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2352-design-an-atm-machine) |
 | [2413-smallest-number-in-infinite-set](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Trie
 |  |

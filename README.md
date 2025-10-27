@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3626-smallest-divisible-digit-product-i](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3817-maximum-containers-on-a-ship](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3817-maximum-containers-on-a-ship) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [3994-find-the-least-frequent-digit](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3994-find-the-least-frequent-digit) |
 ## Simulation
@@ -174,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3778-transform-array-by-parity](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3790-fruits-into-baskets-ii](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3994-find-the-least-frequent-digit](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3994-find-the-least-frequent-digit) |
 | [4008-restore-finishing-order](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/4008-restore-finishing-order) |
 | [4058-compute-alternating-sum](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/4058-compute-alternating-sum) |

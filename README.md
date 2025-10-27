@@ -510,6 +510,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1827-invalid-tweets](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1827-invalid-tweets) |
 | [1837-daily-leads-and-partners](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1837-daily-leads-and-partners) |
 | [1877-find-followers-count](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1877-find-followers-count) |
+| [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2127-employees-whose-manager-left-the-company) |

@@ -506,6 +506,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1523-capital-gainloss](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1523-capital-gainloss) |
 | [1664-find-users-with-valid-e-mails](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1664-find-users-with-valid-e-mails) |
+| [1773-percentage-of-users-attended-a-contest](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1801-average-time-of-process-per-machine](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1801-average-time-of-process-per-machine) |
 | [1811-fix-names-in-a-table](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1827-invalid-tweets) |

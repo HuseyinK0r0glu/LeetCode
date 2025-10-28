@@ -234,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1381-maximum-score-words-formed-by-letters](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
+| [1512-design-underground-system](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1512-design-underground-system) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1532-reformat-the-string](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1532-reformat-the-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -326,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1354-find-players-with-zero-or-one-losses](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1500-count-largest-group](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1500-count-largest-group) |
+| [1512-design-underground-system](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1512-design-underground-system) |
 | [1635-number-of-good-pairs](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
@@ -407,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0355-design-twitter](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0355-design-twitter) |
 | [0677-map-sum-pairs](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/0677-map-sum-pairs) |
 | [1477-product-of-the-last-k-numbers](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1512-design-underground-system](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1512-design-underground-system) |
 | [1572-subrectangle-queries](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1572-subrectangle-queries) |
 | [1905-design-authentication-manager](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1905-design-authentication-manager) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |

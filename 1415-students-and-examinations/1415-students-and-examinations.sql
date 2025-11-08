@@ -1,0 +1,2 @@
+# Write your MySQL query statement below
+select Students.student_id , Students.student_name, Subjects.subject_name ,case when (select count(*) from Examinations as e where e.student_id = Students.student_id and e.subject_name = Subjects.subject_name group by student_id,subject_name) is null then 0 else (select count(*) from Examinations as e where e.student_id = Students.student_id and e.subject_name = Subjects.subject_name group by student_id,subject_name) end as attended_exams from Students,Subjects order by Students.student_id , Subjects.subject_name

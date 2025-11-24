@@ -169,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3651-transformed-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3651-transformed-array) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2756-buy-two-chocolates](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2892-check-if-array-is-good](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2892-check-if-array-is-good) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3778-transform-array-by-parity](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -302,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2756-buy-two-chocolates](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Enumeration
@@ -358,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2888-minimum-index-of-a-valid-split](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2892-check-if-array-is-good](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2892-check-if-array-is-good) |
 | [3034-points-that-intersect-with-cars](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |

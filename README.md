@@ -171,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3651-transformed-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3651-transformed-array) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3731-find-missing-elements](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3731-find-missing-elements) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
@@ -214,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2888-minimum-index-of-a-valid-split](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2892-check-if-array-is-good](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2892-check-if-array-is-good) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3731-find-missing-elements](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3731-find-missing-elements) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3778-transform-array-by-parity](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -362,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2892-check-if-array-is-good](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/2892-check-if-array-is-good) |
 | [3034-points-that-intersect-with-cars](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3731-find-missing-elements](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3731-find-missing-elements) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |

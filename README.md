@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3732-calculate-score-after-performing-instructions](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3790-fruits-into-baskets-ii](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3811-reverse-degree-of-a-string](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
+| [3838-weighted-word-mapping](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [4058-compute-alternating-sum](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/4058-compute-alternating-sum) |
 ## Array
 |  |
@@ -178,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3778-transform-array-by-parity](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3790-fruits-into-baskets-ii](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3838-weighted-word-mapping](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3994-find-the-least-frequent-digit](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3994-find-the-least-frequent-digit) |
 | [4008-restore-finishing-order](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/4008-restore-finishing-order) |
@@ -281,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3617-find-the-original-typed-string-i](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3811-reverse-degree-of-a-string](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
+| [3838-weighted-word-mapping](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/HuseyinK0r0glu/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy

@@ -1,32 +1,22 @@
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
-        
-        int[] helper = new int[nums1.length];
-        
-        for(int i = 0;i<m;i++){
-            helper[i] = nums1[i];
-        }
-        
-        int left = 0;
-        int right = 0;
-        int current = 0;
-        
-        while(left < m && right < n){
-            
-            if(helper[left] <= nums2[right]){
-                nums1[current++] = helper[left++];
-            }else{
-                nums1[current++] = nums2[right++];
+
+        int index = m + n - 1;
+
+        while(m-1>=0 && n-1>=0){
+            if(nums1[m-1] > nums2[n-1]){
+                nums1[index--] = nums1[(m--)-1];
+            }else {
+                nums1[index--] = nums2[(n--)-1];
             }
         }
-        
-        while(left < m){
-            nums1[current++] = helper[left++];
+
+        while(n-1>=0){
+            nums1[index--] = nums2[(n--)-1];
         }
-        
-        while(right < n){
-            nums1[current++] = nums2[right++];
-        }
-        
     }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
